@@ -1,0 +1,122 @@
+{
+  "skills": [
+    {
+      "name": "translate_text",
+      "description": "中英互译",
+      "url": "https://raw.githubusercontent.com/weirancao/feishu-skills/main/translate_text.py",
+      "keywords": [
+        "翻译",
+        "译",
+        "translate"
+      ]
+    },
+    {
+      "name": "url_to_text",
+      "description": "抓取网页标题和正文",
+      "url": "https://raw.githubusercontent.com/weirancao/feishu-skills/main/url_to_text.py",
+      "keywords": [
+        "网页",
+        "抓取",
+        "链接",
+        "url",
+        "web"
+      ]
+    },
+    {
+      "name": "create_docx",
+      "description": "生成可编辑Word文档",
+      "url": "https://raw.githubusercontent.com/weirancao/feishu-skills/main/create_docx.py",
+      "keywords": [
+        "word",
+        "文档",
+        "docx"
+      ]
+    },
+    {
+      "name": "create_xlsx",
+      "description": "生成Excel表格",
+      "url": "https://raw.githubusercontent.com/weirancao/feishu-skills/main/create_xlsx.py",
+      "keywords": [
+        "excel",
+        "表格",
+        "xlsx",
+        "数据表"
+      ]
+    },
+    {
+      "name": "meeting_minutes",
+      "description": "整理会议纪要并生成Word",
+      "url": "https://raw.githubusercontent.com/weirancao/feishu-skills/main/meeting_minutes.py",
+      "keywords": [
+        "会议",
+        "纪要",
+        "minutes",
+        "记录"
+      ]
+    },
+    {
+      "name": "email_draft",
+      "description": "按要点写正式邮件文案",
+      "url": "https://raw.githubusercontent.com/weirancao/feishu-skills/main/email_draft.py",
+      "keywords": [
+        "邮件",
+        "email",
+        "写信"
+      ]
+    },
+    {
+      "name": "unit_convert",
+      "description": "单位换算（长度/重量/速度/温度）",
+      "url": "https://raw.githubusercontent.com/weirancao/feishu-skills/main/unit_convert.py",
+      "keywords": [
+        "单位",
+        "换算",
+        "长度",
+        "温度",
+        "重量"
+      ]
+    },
+    {
+      "name": "currency_convert",
+      "description": "汇率换算",
+      "url": "https://raw.githubusercontent.com/weirancao/feishu-skills/main/currency_convert.py",
+      "keywords": [
+        "汇率",
+        "货币",
+        "currency"
+      ]
+    },
+    {
+      "name": "todo_list",
+      "description": "本地待办清单管理",
+      "url": "https://raw.githubusercontent.com/weirancao/feishu-skills/main/todo_list.py",
+      "keywords": [
+        "待办",
+        "todo",
+        "清单",
+        "任务"
+      ]
+    },
+    {
+      "name": "csv_export",
+      "description": "数据导出CSV文件",
+      "url": "https://raw.githubusercontent.com/weirancao/feishu-skills/main/csv_export.py",
+      "keywords": [
+        "csv",
+        "导出",
+        "数据导出"
+      ]
+    },
+    {
+      "name": "office_pack",
+      "description": "办公技能包：一次安装以上全部10个技能",
+      "url": "https://raw.githubusercontent.com/weirancao/feishu-skills/main/office_pack.zip",
+      "keywords": [
+        "一键",
+        "全套",
+        "批量",
+        "办公包"
+      ]
+    }
+  ]
+}
